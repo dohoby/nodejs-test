@@ -1,0 +1,10 @@
+/bin/
+ 
+
+*.iml
+*.swp
+.idea/
+.idea/vcs.xml
+/cys-api-test/start.bat
+/cys-wx-api-test/node_modules/
+/cys-wx-api-test/report/
