@@ -8,3 +8,5 @@
 /cys-api-test/start.bat
 /cys-wx-api-test/node_modules/
 /cys-wx-api-test/report/
+/test/node_modules/
+/test2/node_modules/
